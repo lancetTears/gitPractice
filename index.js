@@ -13,3 +13,5 @@ document.getElementById("mySubmit").onclick = function(){
 
 
 }
+
+console.log(1+1);
